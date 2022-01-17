@@ -2,7 +2,7 @@
 title: Atom
 role: First year of Master's program
 avatar_filename: avatar.jpg
-bio: 研究テーマ：ヒューマンコンピュータインタラクション，拡張現実感（AR），スマートフォン
+bio: 研究テーマ：ヒューマンコンピュータインタラクション,拡張現実感（AR）,スマートフォン
 interests:
   - ヒューマンコンピュータインタラクション（HCI）、拡張現実感（AR）
 social:
