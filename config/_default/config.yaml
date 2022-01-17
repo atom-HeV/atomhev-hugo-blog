@@ -3,16 +3,21 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
+title: Atom-HeV # Website name
+baseurl: 'https://atom-hev.dev/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+# defaultContentLanguage: en
+# hasCJKLanguage: false
+# defaultContentLanguageInSubdir: false
+# removePathAccents: true
+
+defaultContentLanguage: ja
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
