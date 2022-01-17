@@ -1,6 +1,6 @@
 ---
 title: Atom
-role: First year of Master's program
+role: 修士1年
 avatar_filename: avatar.jpg
 bio: 研究テーマ：ヒューマンコンピュータインタラクション,拡張現実感（AR）,スマートフォン
 interests:
