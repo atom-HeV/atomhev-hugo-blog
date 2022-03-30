@@ -1,11 +1,11 @@
 ---
 widget: contact
-widget_id: Contact widget
+widget_id: RECENT-POSTS
 headless: true
 weight: 130
 title: Contact
 subtitle: null
-active: true
+active: false
 content:
   autolink: true
   form:
