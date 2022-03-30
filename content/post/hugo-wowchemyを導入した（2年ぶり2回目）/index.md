@@ -1,11 +1,11 @@
 ---
 title: Hugo+Wowchemyを導入した（2年ぶり2回目）
-subtitle: wowchemy
+subtitle: ""
 date: 2022-03-30T13:01:02.295Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
