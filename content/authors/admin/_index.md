@@ -1,7 +1,7 @@
 ---
 title: Atom
 role: 修士2年
-avatar_filename: avatar.jpg
+avatar_filename: wow.png
 bio: 研究テーマ：ヒューマンコンピュータインタラクション,拡張現実感（AR）,スマートフォン
 interests:
   - ヒューマンコンピュータインタラクション（HCI）
