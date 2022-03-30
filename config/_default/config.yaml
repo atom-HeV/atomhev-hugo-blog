@@ -11,8 +11,8 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-# defaultContentLanguage: en
-defaultContentLanguage: ja
+defaultContentLanguage: en
+# defaultContentLanguage: ja
 hasCJKLanguage: false
 # hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
