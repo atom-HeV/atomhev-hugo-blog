@@ -4,7 +4,8 @@
 
 # Default language
 en:
-  languageCode: "ja-jp"
+  languageCode: en
+  # languageCode: ja
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
