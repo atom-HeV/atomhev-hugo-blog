@@ -1,5 +1,6 @@
 ---
 widget: experience
+active: false
 date_format: Jan 2006
 experience:
   - title: CEO
@@ -30,4 +31,6 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+  background:
+    text_color_light: false
 ---
