@@ -18,5 +18,5 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-active: false
+active: true
 ---
