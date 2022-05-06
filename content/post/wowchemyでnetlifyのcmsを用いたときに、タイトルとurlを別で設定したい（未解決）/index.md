@@ -1,5 +1,6 @@
 ---
 title: WowchemyでNetlifyのCMSを用いたときに、タイトルとURLを別で設定したい（未解決）
+slug: wowchemy-slug-issue
 date: 2022-05-06T19:32:56.627Z
 draft: false
 featured: false
