@@ -1,0 +1,12 @@
+collection:
+  - name: 'model-cases'
+...
+    slug: '{{fields.slug}}'
+    fields:
+      - {
+          label: 'URL (必須)',
+          name: 'slug',
+          widget: 'string',
+          default: 'model-case-',
+          hint: '/model-cases/hoge/ の hoge に入る URL となる文字列。e.g. 「model-case-001」「model-case-020」',
+        }
