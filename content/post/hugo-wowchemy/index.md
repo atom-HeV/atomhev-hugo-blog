@@ -1,5 +1,6 @@
 ---
-title: Hugo-Wowchemy
+title: Wowchemyを導入した
+slug: hugo-wowchemy
 subtitle: ""
 date: 2022-03-30T13:01:02.295Z
 draft: false
