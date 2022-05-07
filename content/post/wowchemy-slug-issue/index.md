@@ -1,5 +1,5 @@
 ---
-title: WowchemyでNetlifyのCMSを用いたときに、タイトルとURLを別で設定したい（未解決）
+title: WowchemyでNetlifyのCMSを用いたときに、タイトルとURLを別で設定したい（ひとまず解決）
 slug: wowchemy-slug-issue
 date: 2022-05-06T19:32:56.627Z
 draft: false
@@ -16,3 +16,5 @@ CMSで設定したタイトルがそのままURLになってしまうため、�
 slugを設定すれば良いのだが、そのためには直接ファイルに触れる必要があるためCMSの良さが失われる。
 
 現在は直接ファイルを編集している。
+
+[追記：解決しました](<{{<ref "posts/wowchemy-slug-solution">}}>)
