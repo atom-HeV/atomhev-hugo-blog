@@ -4,7 +4,7 @@ date: 2022-05-07T08:19:40.989Z
 draft: false
 featured: false
 tags:
-  - NewProject
+  - Deep Learning
 categories:
   - Project
 image:
