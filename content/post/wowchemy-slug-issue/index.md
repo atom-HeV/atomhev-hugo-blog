@@ -17,4 +17,4 @@ slugを設定すれば良いのだが、そのためには直接ファイルに�
 
 現在は直接ファイルを編集している。
 
-[追記：解決しました]({{<ref "posts/wowchemy-slug-solution/index.md">}})
+[追記：解決しました]({{<relref "/posts/wowchemy-slug-solution/index.md">}})
