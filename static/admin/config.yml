@@ -164,7 +164,7 @@ collections:
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "URL", name: "slug", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish this page on", name: "date", widget: "datetime"}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
