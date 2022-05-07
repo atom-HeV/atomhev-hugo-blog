@@ -6,10 +6,10 @@ summary: Test
 draft: false
 featured: false
 tags:
-  - '"Test Tag"'
-  - '"Hello"'
+  - Test Tag
+  - Hello
 categories:
-  - '"test categories"'
+  - Test Category
 image:
   filename: featured
   focal_point: Smart
