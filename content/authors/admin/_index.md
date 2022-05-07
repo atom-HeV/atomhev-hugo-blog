@@ -13,9 +13,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/atom-HeV
-  - icon: pen
+  - icon: a
     icon_pack: fas
-    link: https://www.linkedin.com/
+    link: https://atcoder.jp/users/HeV
 organizations:
   - name: 北海道大学
     url: https://www.hokudai.ac.jp/
