@@ -13,7 +13,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/atom-HeV
-  - icon: fa-a
+  - icon: pen
     icon_pack: fas
     link: https://atcoder.jp/users/HeV
 organizations:
