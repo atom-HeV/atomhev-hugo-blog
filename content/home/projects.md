@@ -14,8 +14,8 @@ content:
       tag: "*"
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Hello
+      tag: Hello
 design:
   columns: "2"
   view: 2
